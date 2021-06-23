@@ -2,6 +2,11 @@
 
 ![Arrow Logo](https://i.imgur.com/oZmxyGo.png)
 
+## Gibon
+
+This is a version of Simply Love for polish arcades. 
+
+Is uses a mix of Polish (for casual) and English (for everything else).
 
 ## About
 
